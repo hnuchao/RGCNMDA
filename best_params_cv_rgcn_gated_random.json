@@ -1,0 +1,13 @@
+{
+  "hidden_dim": 241,
+  "learning_rate": 0.0015595781572577505,
+  "dropout": 0.16993331909775405,
+  "num_layers": 4,
+  "pca_dim": 64,
+  "latent_dim": 46,
+  "out_channels": 44,
+  "lambda_reg": 0.027363436290856996,
+  "weight_decay": 5.731744944490978e-05,
+  "mdmf_lr": 0.0002686378128443634,
+  "mdmf_epochs": 166
+}
